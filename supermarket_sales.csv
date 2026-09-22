@@ -1,0 +1,1001 @@
+Date,Product,Category,Quantity,Unit_Price,Total_Sales,Customer_Type,Payment,City
+2026-05-16,Juice,Beverages,6,80,480,Member,Card,Hassan
+2026-03-07,Coffee,Beverages,8,150,1200,Normal,Card,Bangalore
+2026-12-05,Rice,Grocery,8,60,480,Normal,Net Banking,Mandya
+2026-04-06,Biscuits,Snacks,7,20,140,Member,Net Banking,Tumkur
+2026-02-26,Juice,Beverages,8,80,640,Member,Net Banking,Hassan
+2026-12-03,Shampoo,Personal Care,2,120,240,Normal,Cash,Hassan
+2026-06-23,Eggs,Dairy,9,7,63,Member,Card,Hassan
+2026-05-11,Biscuits,Snacks,5,20,100,Normal,UPI,Bangalore
+2026-05-30,Bread,Bakery,7,40,280,Member,Card,Bangalore
+2026-12-16,Milk,Dairy,6,30,180,Normal,Card,Mandya
+2026-12-16,Milk,Dairy,6,30,180,Member,Card,Hassan
+2026-03-10,Milk,Dairy,1,30,30,Member,Net Banking,Tumkur
+2026-05-24,Eggs,Dairy,1,7,7,Normal,Card,Mysore
+2026-10-26,Shampoo,Personal Care,2,120,240,Member,Cash,Mysore
+2026-01-26,Biscuits,Snacks,4,20,80,Member,Cash,Bangalore
+2026-01-12,Shampoo,Personal Care,6,120,720,Member,Cash,Mysore
+2026-08-13,Rice,Grocery,6,60,360,Member,UPI,Tumkur
+2026-10-06,Biscuits,Snacks,9,20,180,Normal,Net Banking,Bangalore
+2026-12-02,Coffee,Beverages,3,150,450,Normal,Cash,Hassan
+2026-01-06,Eggs,Dairy,6,7,42,Member,UPI,Bangalore
+2026-03-13,Biscuits,Snacks,2,20,40,Normal,UPI,Bangalore
+2026-07-24,Milk,Dairy,5,30,150,Member,Cash,Hassan
+2026-06-16,Biscuits,Snacks,5,20,100,Normal,Card,Mysore
+2026-01-12,Shampoo,Personal Care,2,120,240,Member,Net Banking,Hassan
+2026-01-28,Soap,Personal Care,2,35,70,Normal,UPI,Hassan
+2026-10-25,Juice,Beverages,5,80,400,Normal,Cash,Tumkur
+2026-04-23,Milk,Dairy,3,30,90,Member,UPI,Mandya
+2026-12-13,Rice,Grocery,5,60,300,Normal,Card,Bangalore
+2026-09-17,Eggs,Dairy,8,7,56,Member,Card,Hassan
+2026-11-12,Soap,Personal Care,5,35,175,Normal,UPI,Mysore
+2026-04-09,Biscuits,Snacks,4,20,80,Normal,Net Banking,Mandya
+2026-08-13,Juice,Beverages,2,80,160,Normal,Cash,Mandya
+2026-10-01,Shampoo,Personal Care,4,120,480,Member,Net Banking,Mandya
+2026-02-24,Rice,Grocery,1,60,60,Normal,Cash,Bangalore
+2026-12-24,Rice,Grocery,3,60,180,Normal,Card,Tumkur
+2026-05-06,Soap,Personal Care,2,35,70,Normal,UPI,Hassan
+2026-12-31,Shampoo,Personal Care,2,120,240,Normal,Cash,Tumkur
+2026-07-23,Eggs,Dairy,5,7,35,Normal,UPI,Hassan
+2026-03-15,Shampoo,Personal Care,7,120,840,Normal,Cash,Tumkur
+2026-01-02,Milk,Dairy,8,30,240,Normal,Net Banking,Tumkur
+2026-04-06,Eggs,Dairy,2,7,14,Normal,Cash,Mandya
+2026-12-31,Soap,Personal Care,7,35,245,Normal,Net Banking,Bangalore
+2026-09-03,Soap,Personal Care,4,35,140,Normal,Net Banking,Mysore
+2026-12-29,Eggs,Dairy,8,7,56,Member,Cash,Tumkur
+2026-02-25,Bread,Bakery,3,40,120,Member,Cash,Bangalore
+2026-07-20,Milk,Dairy,9,30,270,Normal,Cash,Hassan
+2026-09-28,Shampoo,Personal Care,2,120,240,Normal,Net Banking,Mandya
+2026-06-09,Soap,Personal Care,6,35,210,Member,Net Banking,Tumkur
+2026-03-09,Soap,Personal Care,4,35,140,Normal,Card,Mandya
+2026-07-01,Eggs,Dairy,6,7,42,Member,Net Banking,Hassan
+2026-04-04,Sugar,Grocery,5,45,225,Normal,UPI,Mandya
+2026-09-14,Shampoo,Personal Care,10,120,1200,Member,Card,Bangalore
+2026-05-21,Sugar,Grocery,7,45,315,Normal,UPI,Mysore
+2026-06-10,Juice,Beverages,9,80,720,Member,Net Banking,Bangalore
+2026-12-18,Sugar,Grocery,7,45,315,Member,UPI,Mandya
+2026-01-27,Milk,Dairy,6,30,180,Normal,Card,Hassan
+2026-04-18,Sugar,Grocery,6,45,270,Member,UPI,Bangalore
+2026-03-01,Juice,Beverages,2,80,160,Member,UPI,Mandya
+2026-08-25,Soap,Personal Care,9,35,315,Member,Card,Mysore
+2026-03-09,Soap,Personal Care,2,35,70,Member,Cash,Hassan
+2026-11-25,Eggs,Dairy,4,7,28,Member,Card,Bangalore
+2026-05-22,Milk,Dairy,4,30,120,Member,Net Banking,Bangalore
+2026-02-11,Milk,Dairy,9,30,270,Member,Card,Tumkur
+2026-04-17,Milk,Dairy,7,30,210,Normal,UPI,Bangalore
+2026-01-26,Shampoo,Personal Care,10,120,1200,Member,Cash,Tumkur
+2026-02-02,Soap,Personal Care,8,35,280,Normal,Cash,Mandya
+2026-12-19,Milk,Dairy,9,30,270,Normal,Card,Tumkur
+2026-01-19,Sugar,Grocery,10,45,450,Member,Card,Tumkur
+2026-08-09,Rice,Grocery,2,60,120,Member,Cash,Mysore
+2026-06-13,Eggs,Dairy,6,7,42,Normal,Net Banking,Tumkur
+2026-11-03,Shampoo,Personal Care,2,120,240,Normal,Cash,Mysore
+2026-11-22,Shampoo,Personal Care,8,120,960,Member,Cash,Hassan
+2026-10-24,Sugar,Grocery,10,45,450,Normal,Net Banking,Hassan
+2026-07-29,Juice,Beverages,4,80,320,Normal,Card,Mandya
+2026-03-20,Biscuits,Snacks,3,20,60,Member,Net Banking,Tumkur
+2026-04-07,Milk,Dairy,2,30,60,Normal,Card,Mysore
+2026-03-24,Coffee,Beverages,8,150,1200,Member,Net Banking,Mandya
+2026-09-25,Eggs,Dairy,4,7,28,Normal,Net Banking,Bangalore
+2026-06-12,Juice,Beverages,1,80,80,Member,UPI,Tumkur
+2026-01-04,Eggs,Dairy,6,7,42,Normal,Card,Hassan
+2026-11-25,Eggs,Dairy,7,7,49,Normal,Net Banking,Mandya
+2026-04-16,Soap,Personal Care,8,35,280,Normal,UPI,Mandya
+2026-03-28,Eggs,Dairy,1,7,7,Member,Net Banking,Bangalore
+2026-06-22,Rice,Grocery,2,60,120,Member,Net Banking,Mysore
+2026-06-30,Coffee,Beverages,4,150,600,Normal,Cash,Tumkur
+2026-01-20,Juice,Beverages,8,80,640,Normal,Card,Bangalore
+2026-10-12,Milk,Dairy,1,30,30,Normal,UPI,Bangalore
+2026-04-21,Biscuits,Snacks,6,20,120,Member,UPI,Hassan
+2026-06-29,Eggs,Dairy,9,7,63,Normal,Cash,Mysore
+2026-08-08,Eggs,Dairy,10,7,70,Member,Cash,Hassan
+2026-10-15,Sugar,Grocery,5,45,225,Normal,UPI,Tumkur
+2026-04-15,Coffee,Beverages,9,150,1350,Normal,Card,Mandya
+2026-03-16,Soap,Personal Care,10,35,350,Normal,Card,Hassan
+2026-07-31,Biscuits,Snacks,4,20,80,Normal,Card,Tumkur
+2026-07-18,Coffee,Beverages,6,150,900,Normal,Card,Tumkur
+2026-09-27,Juice,Beverages,3,80,240,Member,UPI,Mysore
+2026-01-28,Soap,Personal Care,10,35,350,Normal,Cash,Hassan
+2026-01-02,Milk,Dairy,10,30,300,Member,Cash,Mysore
+2026-06-12,Sugar,Grocery,2,45,90,Normal,Net Banking,Hassan
+2026-07-26,Juice,Beverages,6,80,480,Member,Net Banking,Hassan
+2026-08-11,Rice,Grocery,6,60,360,Member,Cash,Hassan
+2026-07-21,Sugar,Grocery,8,45,360,Normal,UPI,Mysore
+2026-04-04,Coffee,Beverages,1,150,150,Normal,UPI,Hassan
+2026-04-18,Coffee,Beverages,9,150,1350,Normal,UPI,Bangalore
+2026-07-22,Juice,Beverages,8,80,640,Normal,UPI,Hassan
+2026-03-02,Soap,Personal Care,7,35,245,Normal,Card,Hassan
+2026-04-12,Rice,Grocery,6,60,360,Normal,Cash,Hassan
+2026-03-19,Juice,Beverages,10,80,800,Normal,Cash,Tumkur
+2026-01-21,Milk,Dairy,2,30,60,Member,Cash,Mysore
+2026-08-26,Rice,Grocery,5,60,300,Member,Cash,Tumkur
+2026-05-04,Bread,Bakery,6,40,240,Member,Cash,Mysore
+2026-01-20,Sugar,Grocery,6,45,270,Normal,Card,Hassan
+2026-05-18,Juice,Beverages,10,80,800,Member,Card,Mandya
+2026-02-05,Soap,Personal Care,5,35,175,Member,UPI,Tumkur
+2026-12-16,Soap,Personal Care,6,35,210,Normal,UPI,Mandya
+2026-01-24,Soap,Personal Care,2,35,70,Member,Card,Bangalore
+2026-05-06,Biscuits,Snacks,3,20,60,Normal,UPI,Mysore
+2026-10-26,Coffee,Beverages,9,150,1350,Member,UPI,Tumkur
+2026-11-03,Sugar,Grocery,1,45,45,Normal,Net Banking,Bangalore
+2026-08-04,Coffee,Beverages,9,150,1350,Normal,Net Banking,Mandya
+2026-11-11,Coffee,Beverages,1,150,150,Normal,UPI,Mysore
+2026-03-26,Coffee,Beverages,4,150,600,Member,UPI,Hassan
+2026-08-09,Juice,Beverages,9,80,720,Normal,Net Banking,Bangalore
+2026-10-19,Biscuits,Snacks,5,20,100,Member,Net Banking,Mandya
+2026-11-07,Milk,Dairy,7,30,210,Member,Card,Bangalore
+2026-11-19,Biscuits,Snacks,6,20,120,Normal,UPI,Mysore
+2026-03-13,Bread,Bakery,1,40,40,Normal,Net Banking,Hassan
+2026-07-22,Soap,Personal Care,3,35,105,Member,Card,Mandya
+2026-05-23,Shampoo,Personal Care,5,120,600,Normal,Card,Mandya
+2026-10-10,Soap,Personal Care,1,35,35,Member,Net Banking,Tumkur
+2026-12-27,Juice,Beverages,5,80,400,Member,UPI,Tumkur
+2026-11-12,Sugar,Grocery,8,45,360,Normal,Cash,Mysore
+2026-02-07,Biscuits,Snacks,2,20,40,Member,UPI,Mysore
+2026-11-18,Milk,Dairy,1,30,30,Member,UPI,Bangalore
+2026-11-13,Eggs,Dairy,7,7,49,Member,Net Banking,Hassan
+2026-10-05,Milk,Dairy,9,30,270,Normal,Card,Tumkur
+2026-02-26,Coffee,Beverages,7,150,1050,Member,UPI,Mysore
+2026-07-31,Shampoo,Personal Care,5,120,600,Member,Card,Bangalore
+2026-01-31,Bread,Bakery,6,40,240,Normal,Card,Mysore
+2026-11-16,Sugar,Grocery,3,45,135,Member,Cash,Mandya
+2026-10-24,Eggs,Dairy,4,7,28,Normal,Net Banking,Hassan
+2026-03-21,Eggs,Dairy,1,7,7,Member,UPI,Bangalore
+2026-03-31,Juice,Beverages,1,80,80,Normal,Cash,Mysore
+2026-12-03,Soap,Personal Care,4,35,140,Member,Card,Mysore
+2026-04-12,Sugar,Grocery,4,45,180,Member,Net Banking,Tumkur
+2026-10-20,Rice,Grocery,8,60,480,Normal,Cash,Tumkur
+2026-12-26,Biscuits,Snacks,9,20,180,Member,Cash,Mandya
+2026-10-07,Coffee,Beverages,2,150,300,Normal,Cash,Mandya
+2026-02-19,Juice,Beverages,2,80,160,Normal,Cash,Tumkur
+2026-06-14,Coffee,Beverages,4,150,600,Normal,Net Banking,Hassan
+2026-11-18,Sugar,Grocery,7,45,315,Normal,UPI,Mysore
+2026-02-03,Shampoo,Personal Care,9,120,1080,Member,Card,Mandya
+2026-03-16,Coffee,Beverages,8,150,1200,Normal,UPI,Hassan
+2026-10-06,Sugar,Grocery,9,45,405,Member,UPI,Bangalore
+2026-12-29,Soap,Personal Care,3,35,105,Normal,Card,Hassan
+2026-03-05,Biscuits,Snacks,8,20,160,Normal,UPI,Tumkur
+2026-12-20,Biscuits,Snacks,2,20,40,Member,Card,Mysore
+2026-06-07,Coffee,Beverages,7,150,1050,Normal,Cash,Mysore
+2026-04-04,Eggs,Dairy,2,7,14,Member,Net Banking,Tumkur
+2026-08-14,Rice,Grocery,10,60,600,Normal,Cash,Tumkur
+2026-08-13,Shampoo,Personal Care,2,120,240,Normal,Net Banking,Hassan
+2026-05-08,Bread,Bakery,8,40,320,Normal,Card,Mandya
+2026-12-16,Juice,Beverages,7,80,560,Normal,UPI,Tumkur
+2026-06-10,Rice,Grocery,7,60,420,Normal,UPI,Tumkur
+2026-09-14,Milk,Dairy,10,30,300,Normal,Cash,Bangalore
+2026-10-02,Rice,Grocery,3,60,180,Member,UPI,Hassan
+2026-08-10,Shampoo,Personal Care,1,120,120,Member,Net Banking,Hassan
+2026-05-08,Milk,Dairy,10,30,300,Member,Card,Hassan
+2026-05-25,Rice,Grocery,10,60,600,Member,UPI,Bangalore
+2026-02-10,Coffee,Beverages,7,150,1050,Member,UPI,Bangalore
+2026-12-18,Coffee,Beverages,6,150,900,Member,Net Banking,Tumkur
+2026-10-08,Rice,Grocery,1,60,60,Member,Net Banking,Bangalore
+2026-01-20,Biscuits,Snacks,10,20,200,Normal,Card,Mandya
+2026-03-17,Shampoo,Personal Care,4,120,480,Normal,UPI,Bangalore
+2026-08-25,Juice,Beverages,8,80,640,Normal,Net Banking,Tumkur
+2026-06-18,Shampoo,Personal Care,10,120,1200,Normal,UPI,Mandya
+2026-07-17,Eggs,Dairy,3,7,21,Member,Cash,Mandya
+2026-04-25,Bread,Bakery,10,40,400,Member,Net Banking,Mandya
+2026-01-22,Juice,Beverages,5,80,400,Normal,Net Banking,Tumkur
+2026-06-14,Biscuits,Snacks,5,20,100,Member,Card,Mandya
+2026-07-27,Biscuits,Snacks,7,20,140,Member,Cash,Mysore
+2026-04-24,Rice,Grocery,7,60,420,Member,Cash,Mysore
+2026-08-15,Coffee,Beverages,1,150,150,Member,UPI,Tumkur
+2026-05-13,Shampoo,Personal Care,8,120,960,Member,Cash,Hassan
+2026-01-25,Sugar,Grocery,3,45,135,Member,UPI,Mysore
+2026-10-02,Coffee,Beverages,8,150,1200,Normal,Cash,Tumkur
+2026-07-05,Coffee,Beverages,1,150,150,Normal,Card,Tumkur
+2026-02-14,Juice,Beverages,1,80,80,Normal,Net Banking,Hassan
+2026-12-20,Bread,Bakery,7,40,280,Member,Cash,Tumkur
+2026-11-09,Milk,Dairy,10,30,300,Member,Cash,Mandya
+2026-07-27,Bread,Bakery,1,40,40,Member,Card,Tumkur
+2026-12-31,Milk,Dairy,6,30,180,Normal,Cash,Tumkur
+2026-10-10,Juice,Beverages,3,80,240,Normal,Card,Tumkur
+2026-11-21,Sugar,Grocery,5,45,225,Normal,Card,Tumkur
+2026-06-25,Bread,Bakery,8,40,320,Member,UPI,Mandya
+2026-03-24,Biscuits,Snacks,10,20,200,Normal,Net Banking,Bangalore
+2026-02-25,Juice,Beverages,8,80,640,Normal,Cash,Tumkur
+2026-12-08,Biscuits,Snacks,8,20,160,Normal,Cash,Hassan
+2026-03-09,Eggs,Dairy,10,7,70,Member,Cash,Bangalore
+2026-08-29,Rice,Grocery,10,60,600,Normal,UPI,Bangalore
+2026-01-25,Rice,Grocery,5,60,300,Member,Card,Mandya
+2026-10-10,Soap,Personal Care,5,35,175,Normal,UPI,Hassan
+2026-09-08,Juice,Beverages,5,80,400,Member,Net Banking,Bangalore
+2026-12-01,Rice,Grocery,1,60,60,Member,Cash,Tumkur
+2026-09-19,Biscuits,Snacks,7,20,140,Member,Cash,Hassan
+2026-04-25,Bread,Bakery,6,40,240,Normal,UPI,Bangalore
+2026-02-11,Rice,Grocery,9,60,540,Normal,Card,Tumkur
+2026-11-28,Sugar,Grocery,5,45,225,Member,Cash,Hassan
+2026-04-26,Shampoo,Personal Care,4,120,480,Normal,Card,Hassan
+2026-08-19,Bread,Bakery,5,40,200,Normal,Net Banking,Mandya
+2026-04-09,Soap,Personal Care,7,35,245,Member,Net Banking,Hassan
+2026-09-23,Eggs,Dairy,1,7,7,Normal,UPI,Mysore
+2026-09-09,Coffee,Beverages,1,150,150,Normal,Cash,Mandya
+2026-10-09,Soap,Personal Care,3,35,105,Normal,Net Banking,Mysore
+2026-03-16,Sugar,Grocery,3,45,135,Member,Cash,Mandya
+2026-04-08,Coffee,Beverages,1,150,150,Normal,Net Banking,Mysore
+2026-05-13,Bread,Bakery,2,40,80,Normal,Net Banking,Mysore
+2026-02-24,Biscuits,Snacks,9,20,180,Normal,UPI,Mandya
+2026-06-03,Juice,Beverages,5,80,400,Member,UPI,Mysore
+2026-07-18,Soap,Personal Care,2,35,70,Member,Cash,Hassan
+2026-12-31,Juice,Beverages,5,80,400,Member,Card,Tumkur
+2026-05-01,Soap,Personal Care,4,35,140,Normal,Net Banking,Hassan
+2026-07-19,Coffee,Beverages,2,150,300,Normal,Cash,Hassan
+2026-03-05,Coffee,Beverages,6,150,900,Normal,UPI,Hassan
+2026-06-04,Biscuits,Snacks,8,20,160,Normal,Card,Bangalore
+2026-11-11,Rice,Grocery,1,60,60,Member,UPI,Mysore
+2026-12-12,Eggs,Dairy,7,7,49,Normal,Card,Bangalore
+2026-11-05,Shampoo,Personal Care,7,120,840,Member,UPI,Tumkur
+2026-04-17,Sugar,Grocery,8,45,360,Normal,UPI,Bangalore
+2026-02-27,Sugar,Grocery,8,45,360,Member,Card,Tumkur
+2026-09-12,Eggs,Dairy,1,7,7,Member,Card,Hassan
+2026-04-24,Eggs,Dairy,9,7,63,Normal,Card,Mysore
+2026-11-12,Shampoo,Personal Care,8,120,960,Member,Net Banking,Tumkur
+2026-01-06,Eggs,Dairy,3,7,21,Normal,Card,Tumkur
+2026-01-30,Bread,Bakery,2,40,80,Member,UPI,Mysore
+2026-04-24,Soap,Personal Care,5,35,175,Member,Card,Bangalore
+2026-05-23,Rice,Grocery,2,60,120,Normal,UPI,Mandya
+2026-04-15,Milk,Dairy,1,30,30,Member,Net Banking,Tumkur
+2026-08-19,Soap,Personal Care,10,35,350,Member,Net Banking,Mandya
+2026-02-04,Soap,Personal Care,9,35,315,Normal,Net Banking,Hassan
+2026-11-08,Soap,Personal Care,4,35,140,Member,UPI,Hassan
+2026-04-04,Rice,Grocery,6,60,360,Normal,Net Banking,Tumkur
+2026-03-09,Juice,Beverages,1,80,80,Member,Card,Tumkur
+2026-07-08,Juice,Beverages,2,80,160,Normal,Cash,Mandya
+2026-12-23,Shampoo,Personal Care,2,120,240,Normal,Cash,Mandya
+2026-10-14,Bread,Bakery,3,40,120,Member,Cash,Tumkur
+2026-06-24,Rice,Grocery,5,60,300,Member,Cash,Tumkur
+2026-01-20,Coffee,Beverages,1,150,150,Member,Cash,Tumkur
+2026-01-29,Sugar,Grocery,2,45,90,Member,UPI,Mandya
+2026-03-02,Juice,Beverages,4,80,320,Member,Card,Tumkur
+2026-09-21,Coffee,Beverages,10,150,1500,Normal,Net Banking,Tumkur
+2026-07-14,Bread,Bakery,5,40,200,Normal,Net Banking,Tumkur
+2026-04-19,Bread,Bakery,3,40,120,Normal,Card,Bangalore
+2026-10-12,Shampoo,Personal Care,3,120,360,Normal,Cash,Mysore
+2026-02-27,Soap,Personal Care,7,35,245,Normal,Cash,Hassan
+2026-06-24,Eggs,Dairy,8,7,56,Normal,UPI,Mandya
+2026-06-18,Soap,Personal Care,3,35,105,Member,UPI,Mandya
+2026-09-18,Coffee,Beverages,4,150,600,Member,UPI,Hassan
+2026-08-20,Eggs,Dairy,1,7,7,Normal,Cash,Mandya
+2026-12-22,Sugar,Grocery,3,45,135,Member,UPI,Mysore
+2026-03-30,Eggs,Dairy,6,7,42,Normal,Net Banking,Hassan
+2026-10-17,Coffee,Beverages,1,150,150,Member,Card,Bangalore
+2026-04-20,Milk,Dairy,5,30,150,Normal,UPI,Tumkur
+2026-05-24,Coffee,Beverages,2,150,300,Normal,Card,Bangalore
+2026-12-11,Coffee,Beverages,5,150,750,Normal,Card,Tumkur
+2026-08-07,Coffee,Beverages,8,150,1200,Normal,Card,Mandya
+2026-09-19,Eggs,Dairy,5,7,35,Member,UPI,Mysore
+2026-04-25,Milk,Dairy,8,30,240,Member,UPI,Tumkur
+2026-08-22,Shampoo,Personal Care,9,120,1080,Member,Card,Tumkur
+2026-10-08,Bread,Bakery,2,40,80,Normal,UPI,Tumkur
+2026-12-16,Soap,Personal Care,9,35,315,Member,Net Banking,Hassan
+2026-05-30,Sugar,Grocery,10,45,450,Member,UPI,Hassan
+2026-02-25,Juice,Beverages,8,80,640,Member,Cash,Mysore
+2026-03-11,Soap,Personal Care,1,35,35,Member,UPI,Bangalore
+2026-01-16,Coffee,Beverages,3,150,450,Normal,UPI,Bangalore
+2026-07-31,Bread,Bakery,6,40,240,Member,Card,Mandya
+2026-12-16,Rice,Grocery,2,60,120,Normal,UPI,Hassan
+2026-02-02,Milk,Dairy,4,30,120,Member,UPI,Mandya
+2026-10-20,Bread,Bakery,9,40,360,Member,UPI,Tumkur
+2026-01-31,Biscuits,Snacks,7,20,140,Normal,Card,Mysore
+2026-03-03,Rice,Grocery,10,60,600,Member,UPI,Mandya
+2026-12-30,Bread,Bakery,8,40,320,Member,Cash,Mysore
+2026-03-30,Eggs,Dairy,8,7,56,Normal,Net Banking,Bangalore
+2026-10-12,Biscuits,Snacks,8,20,160,Normal,Cash,Tumkur
+2026-09-19,Rice,Grocery,3,60,180,Normal,Net Banking,Mandya
+2026-03-24,Juice,Beverages,6,80,480,Normal,Card,Hassan
+2026-10-16,Coffee,Beverages,3,150,450,Normal,Cash,Mysore
+2026-04-12,Soap,Personal Care,7,35,245,Normal,Net Banking,Mysore
+2026-05-08,Shampoo,Personal Care,8,120,960,Member,UPI,Mysore
+2026-11-13,Juice,Beverages,5,80,400,Normal,Card,Tumkur
+2026-10-05,Coffee,Beverages,2,150,300,Normal,Net Banking,Mysore
+2026-09-04,Bread,Bakery,8,40,320,Member,Net Banking,Hassan
+2026-02-23,Coffee,Beverages,4,150,600,Normal,Cash,Mandya
+2026-11-23,Eggs,Dairy,5,7,35,Normal,Cash,Mandya
+2026-03-28,Juice,Beverages,2,80,160,Normal,Net Banking,Tumkur
+2026-07-29,Bread,Bakery,5,40,200,Member,Card,Bangalore
+2026-12-31,Coffee,Beverages,5,150,750,Normal,Net Banking,Mandya
+2026-01-06,Coffee,Beverages,6,150,900,Member,Cash,Hassan
+2026-07-27,Milk,Dairy,4,30,120,Member,Cash,Bangalore
+2026-11-30,Eggs,Dairy,4,7,28,Member,Cash,Bangalore
+2026-01-03,Milk,Dairy,8,30,240,Normal,Net Banking,Mysore
+2026-05-26,Shampoo,Personal Care,5,120,600,Member,Cash,Mandya
+2026-06-12,Biscuits,Snacks,5,20,100,Normal,UPI,Tumkur
+2026-04-23,Coffee,Beverages,10,150,1500,Normal,UPI,Bangalore
+2026-10-09,Rice,Grocery,7,60,420,Normal,Card,Hassan
+2026-01-20,Rice,Grocery,8,60,480,Member,Net Banking,Hassan
+2026-09-25,Coffee,Beverages,3,150,450,Member,UPI,Tumkur
+2026-11-17,Shampoo,Personal Care,7,120,840,Member,Net Banking,Mysore
+2026-05-02,Eggs,Dairy,7,7,49,Member,Net Banking,Mysore
+2026-01-22,Sugar,Grocery,6,45,270,Member,UPI,Tumkur
+2026-10-28,Soap,Personal Care,1,35,35,Member,Net Banking,Mysore
+2026-08-19,Biscuits,Snacks,4,20,80,Member,UPI,Mysore
+2026-07-11,Eggs,Dairy,1,7,7,Normal,Cash,Tumkur
+2026-04-16,Bread,Bakery,10,40,400,Normal,UPI,Hassan
+2026-10-09,Soap,Personal Care,7,35,245,Member,Cash,Mysore
+2026-07-13,Bread,Bakery,2,40,80,Member,Card,Bangalore
+2026-07-22,Eggs,Dairy,3,7,21,Normal,Net Banking,Hassan
+2026-08-06,Rice,Grocery,10,60,600,Member,Cash,Tumkur
+2026-11-14,Shampoo,Personal Care,9,120,1080,Member,Card,Mandya
+2026-08-26,Bread,Bakery,4,40,160,Member,Net Banking,Bangalore
+2026-01-05,Rice,Grocery,5,60,300,Normal,Cash,Mysore
+2026-01-01,Eggs,Dairy,9,7,63,Normal,Card,Hassan
+2026-08-01,Coffee,Beverages,6,150,900,Member,Card,Mandya
+2026-07-31,Bread,Bakery,4,40,160,Member,Card,Hassan
+2026-08-12,Eggs,Dairy,1,7,7,Member,UPI,Tumkur
+2026-05-30,Shampoo,Personal Care,1,120,120,Normal,Net Banking,Bangalore
+2026-05-21,Biscuits,Snacks,7,20,140,Normal,Net Banking,Bangalore
+2026-04-07,Soap,Personal Care,5,35,175,Normal,Net Banking,Mysore
+2026-02-02,Sugar,Grocery,3,45,135,Member,UPI,Mandya
+2026-08-06,Biscuits,Snacks,5,20,100,Member,Card,Hassan
+2026-09-23,Bread,Bakery,7,40,280,Member,Card,Mandya
+2026-01-22,Soap,Personal Care,3,35,105,Member,Net Banking,Tumkur
+2026-01-25,Milk,Dairy,10,30,300,Member,Cash,Bangalore
+2026-11-08,Juice,Beverages,3,80,240,Member,UPI,Hassan
+2026-11-29,Shampoo,Personal Care,10,120,1200,Normal,UPI,Hassan
+2026-11-30,Bread,Bakery,9,40,360,Member,Card,Mandya
+2026-06-08,Coffee,Beverages,8,150,1200,Member,Card,Tumkur
+2026-01-11,Sugar,Grocery,4,45,180,Member,Cash,Tumkur
+2026-11-26,Eggs,Dairy,2,7,14,Normal,Net Banking,Bangalore
+2026-10-14,Soap,Personal Care,6,35,210,Member,Net Banking,Bangalore
+2026-01-05,Sugar,Grocery,4,45,180,Normal,UPI,Tumkur
+2026-12-11,Milk,Dairy,7,30,210,Member,Card,Bangalore
+2026-09-24,Rice,Grocery,8,60,480,Normal,Card,Mandya
+2026-01-27,Juice,Beverages,9,80,720,Normal,Cash,Tumkur
+2026-12-09,Rice,Grocery,5,60,300,Member,Net Banking,Mandya
+2026-07-20,Sugar,Grocery,5,45,225,Member,Net Banking,Hassan
+2026-12-11,Milk,Dairy,7,30,210,Member,UPI,Hassan
+2026-04-17,Shampoo,Personal Care,5,120,600,Normal,UPI,Mandya
+2026-05-22,Milk,Dairy,2,30,60,Normal,Cash,Hassan
+2026-10-18,Biscuits,Snacks,5,20,100,Member,Net Banking,Bangalore
+2026-05-01,Rice,Grocery,10,60,600,Normal,Net Banking,Hassan
+2026-08-28,Shampoo,Personal Care,1,120,120,Member,Cash,Hassan
+2026-12-04,Sugar,Grocery,7,45,315,Member,UPI,Bangalore
+2026-10-18,Juice,Beverages,4,80,320,Member,Cash,Mysore
+2026-04-27,Milk,Dairy,10,30,300,Normal,UPI,Bangalore
+2026-01-16,Soap,Personal Care,8,35,280,Normal,Net Banking,Bangalore
+2026-05-29,Sugar,Grocery,8,45,360,Member,Net Banking,Bangalore
+2026-06-19,Milk,Dairy,6,30,180,Normal,Cash,Bangalore
+2026-08-15,Coffee,Beverages,8,150,1200,Member,Card,Mysore
+2026-04-20,Coffee,Beverages,2,150,300,Member,UPI,Tumkur
+2026-02-11,Soap,Personal Care,9,35,315,Member,UPI,Bangalore
+2026-05-22,Bread,Bakery,10,40,400,Member,Net Banking,Bangalore
+2026-02-26,Soap,Personal Care,8,35,280,Normal,Cash,Hassan
+2026-04-17,Soap,Personal Care,5,35,175,Normal,Net Banking,Mysore
+2026-12-19,Bread,Bakery,9,40,360,Member,Cash,Mysore
+2026-12-18,Bread,Bakery,2,40,80,Member,Cash,Tumkur
+2026-11-08,Milk,Dairy,4,30,120,Member,UPI,Mysore
+2026-04-14,Coffee,Beverages,6,150,900,Normal,UPI,Bangalore
+2026-08-11,Biscuits,Snacks,5,20,100,Normal,Net Banking,Tumkur
+2026-08-01,Eggs,Dairy,2,7,14,Member,UPI,Mandya
+2026-06-26,Shampoo,Personal Care,9,120,1080,Normal,Cash,Bangalore
+2026-08-10,Milk,Dairy,4,30,120,Normal,Cash,Bangalore
+2026-08-18,Biscuits,Snacks,3,20,60,Member,Card,Tumkur
+2026-09-07,Rice,Grocery,9,60,540,Normal,Cash,Bangalore
+2026-01-06,Milk,Dairy,7,30,210,Normal,Cash,Tumkur
+2026-10-23,Milk,Dairy,6,30,180,Member,UPI,Hassan
+2026-09-24,Soap,Personal Care,9,35,315,Normal,Net Banking,Mandya
+2026-06-05,Juice,Beverages,1,80,80,Member,Card,Tumkur
+2026-01-12,Bread,Bakery,4,40,160,Member,Card,Mandya
+2026-08-16,Sugar,Grocery,2,45,90,Member,Card,Mysore
+2026-05-03,Sugar,Grocery,1,45,45,Member,UPI,Mysore
+2026-12-31,Soap,Personal Care,10,35,350,Normal,Card,Mandya
+2026-06-08,Juice,Beverages,1,80,80,Member,Card,Mandya
+2026-12-19,Biscuits,Snacks,5,20,100,Member,UPI,Mysore
+2026-08-22,Rice,Grocery,5,60,300,Member,Card,Mandya
+2026-09-27,Rice,Grocery,10,60,600,Member,Cash,Bangalore
+2026-09-30,Coffee,Beverages,4,150,600,Member,Net Banking,Bangalore
+2026-01-09,Soap,Personal Care,1,35,35,Member,UPI,Tumkur
+2026-09-22,Coffee,Beverages,6,150,900,Member,UPI,Hassan
+2026-06-14,Soap,Personal Care,6,35,210,Member,Cash,Bangalore
+2026-05-02,Coffee,Beverages,6,150,900,Member,Cash,Bangalore
+2026-02-24,Bread,Bakery,5,40,200,Member,Cash,Mysore
+2026-11-06,Sugar,Grocery,5,45,225,Normal,Card,Hassan
+2026-02-02,Soap,Personal Care,1,35,35,Member,UPI,Tumkur
+2026-06-15,Milk,Dairy,1,30,30,Member,Card,Bangalore
+2026-08-01,Eggs,Dairy,8,7,56,Member,Net Banking,Tumkur
+2026-04-10,Bread,Bakery,9,40,360,Normal,Net Banking,Hassan
+2026-05-16,Milk,Dairy,3,30,90,Member,Card,Bangalore
+2026-06-02,Biscuits,Snacks,5,20,100,Member,Cash,Mysore
+2026-04-21,Coffee,Beverages,4,150,600,Member,Cash,Tumkur
+2026-08-22,Milk,Dairy,7,30,210,Normal,Net Banking,Tumkur
+2026-05-10,Milk,Dairy,5,30,150,Member,Cash,Bangalore
+2026-10-13,Shampoo,Personal Care,9,120,1080,Normal,UPI,Bangalore
+2026-02-07,Shampoo,Personal Care,7,120,840,Normal,Card,Mandya
+2026-12-27,Soap,Personal Care,5,35,175,Member,UPI,Tumkur
+2026-11-13,Sugar,Grocery,9,45,405,Normal,Cash,Tumkur
+2026-02-12,Milk,Dairy,4,30,120,Normal,Net Banking,Mysore
+2026-02-02,Bread,Bakery,1,40,40,Member,UPI,Bangalore
+2026-07-09,Soap,Personal Care,4,35,140,Normal,Cash,Mysore
+2026-08-31,Biscuits,Snacks,10,20,200,Member,UPI,Hassan
+2026-06-01,Shampoo,Personal Care,1,120,120,Normal,Net Banking,Bangalore
+2026-07-31,Rice,Grocery,2,60,120,Normal,Card,Tumkur
+2026-08-15,Sugar,Grocery,9,45,405,Normal,Cash,Mysore
+2026-02-07,Shampoo,Personal Care,7,120,840,Member,UPI,Mysore
+2026-02-07,Biscuits,Snacks,3,20,60,Normal,Net Banking,Mysore
+2026-09-15,Rice,Grocery,7,60,420,Member,UPI,Bangalore
+2026-12-14,Biscuits,Snacks,4,20,80,Member,Cash,Mandya
+2026-03-12,Biscuits,Snacks,9,20,180,Member,Card,Bangalore
+2026-05-11,Biscuits,Snacks,2,20,40,Member,Card,Mandya
+2026-08-30,Rice,Grocery,5,60,300,Normal,UPI,Hassan
+2026-03-01,Coffee,Beverages,1,150,150,Member,Card,Tumkur
+2026-03-11,Shampoo,Personal Care,3,120,360,Normal,UPI,Mysore
+2026-06-27,Biscuits,Snacks,5,20,100,Member,Card,Tumkur
+2026-02-02,Milk,Dairy,3,30,90,Normal,Card,Mandya
+2026-09-16,Coffee,Beverages,8,150,1200,Member,UPI,Mysore
+2026-03-11,Rice,Grocery,9,60,540,Normal,Cash,Tumkur
+2026-06-23,Biscuits,Snacks,5,20,100,Normal,Cash,Mandya
+2026-04-27,Sugar,Grocery,7,45,315,Normal,Card,Tumkur
+2026-07-11,Sugar,Grocery,7,45,315,Member,Card,Tumkur
+2026-11-20,Eggs,Dairy,5,7,35,Normal,Card,Bangalore
+2026-02-10,Bread,Bakery,7,40,280,Normal,Card,Hassan
+2026-11-08,Coffee,Beverages,1,150,150,Member,Card,Tumkur
+2026-11-25,Sugar,Grocery,9,45,405,Normal,Cash,Mysore
+2026-12-28,Shampoo,Personal Care,7,120,840,Member,Net Banking,Tumkur
+2026-03-11,Soap,Personal Care,1,35,35,Normal,Net Banking,Bangalore
+2026-04-28,Biscuits,Snacks,8,20,160,Member,Card,Bangalore
+2026-07-19,Shampoo,Personal Care,9,120,1080,Member,Net Banking,Bangalore
+2026-12-25,Coffee,Beverages,2,150,300,Member,Net Banking,Tumkur
+2026-12-19,Bread,Bakery,1,40,40,Normal,Card,Bangalore
+2026-08-08,Juice,Beverages,7,80,560,Normal,Card,Bangalore
+2026-04-13,Soap,Personal Care,7,35,245,Normal,UPI,Mandya
+2026-09-28,Biscuits,Snacks,9,20,180,Normal,Net Banking,Bangalore
+2026-05-06,Biscuits,Snacks,2,20,40,Normal,UPI,Mandya
+2026-08-18,Shampoo,Personal Care,6,120,720,Member,Net Banking,Bangalore
+2026-04-29,Shampoo,Personal Care,2,120,240,Normal,UPI,Mandya
+2026-01-01,Juice,Beverages,5,80,400,Member,Net Banking,Bangalore
+2026-11-16,Soap,Personal Care,8,35,280,Normal,Card,Tumkur
+2026-09-30,Shampoo,Personal Care,9,120,1080,Member,UPI,Hassan
+2026-03-01,Rice,Grocery,2,60,120,Member,Card,Mysore
+2026-02-07,Eggs,Dairy,3,7,21,Normal,Net Banking,Hassan
+2026-05-09,Shampoo,Personal Care,7,120,840,Member,Card,Tumkur
+2026-06-23,Soap,Personal Care,1,35,35,Member,Card,Mysore
+2026-11-03,Sugar,Grocery,4,45,180,Member,Cash,Tumkur
+2026-08-14,Coffee,Beverages,2,150,300,Normal,Card,Mandya
+2026-10-09,Eggs,Dairy,2,7,14,Member,Card,Mandya
+2026-04-28,Biscuits,Snacks,10,20,200,Member,UPI,Bangalore
+2026-12-02,Rice,Grocery,2,60,120,Member,Card,Mysore
+2026-03-19,Biscuits,Snacks,10,20,200,Member,Net Banking,Bangalore
+2026-04-03,Milk,Dairy,7,30,210,Normal,UPI,Mysore
+2026-04-01,Soap,Personal Care,2,35,70,Normal,Net Banking,Mysore
+2026-09-01,Soap,Personal Care,7,35,245,Member,UPI,Mysore
+2026-03-07,Coffee,Beverages,9,150,1350,Member,UPI,Mysore
+2026-01-03,Bread,Bakery,6,40,240,Normal,UPI,Mandya
+2026-11-17,Rice,Grocery,7,60,420,Normal,Card,Mandya
+2026-08-14,Soap,Personal Care,5,35,175,Member,Net Banking,Hassan
+2026-08-29,Biscuits,Snacks,2,20,40,Normal,UPI,Tumkur
+2026-12-21,Rice,Grocery,2,60,120,Normal,Cash,Hassan
+2026-03-29,Juice,Beverages,8,80,640,Normal,Net Banking,Mysore
+2026-06-21,Bread,Bakery,7,40,280,Normal,Cash,Hassan
+2026-10-08,Eggs,Dairy,3,7,21,Normal,Card,Hassan
+2026-08-16,Coffee,Beverages,2,150,300,Normal,Net Banking,Mysore
+2026-08-18,Coffee,Beverages,4,150,600,Normal,UPI,Bangalore
+2026-11-16,Shampoo,Personal Care,3,120,360,Normal,Net Banking,Mandya
+2026-09-24,Eggs,Dairy,2,7,14,Normal,Net Banking,Mandya
+2026-08-14,Juice,Beverages,4,80,320,Normal,UPI,Bangalore
+2026-09-24,Juice,Beverages,3,80,240,Member,Net Banking,Hassan
+2026-03-16,Eggs,Dairy,5,7,35,Normal,Card,Mandya
+2026-09-09,Shampoo,Personal Care,6,120,720,Member,UPI,Mandya
+2026-02-22,Rice,Grocery,8,60,480,Member,UPI,Mysore
+2026-01-05,Bread,Bakery,10,40,400,Normal,Net Banking,Mandya
+2026-01-19,Biscuits,Snacks,4,20,80,Normal,Cash,Mysore
+2026-02-02,Coffee,Beverages,8,150,1200,Member,UPI,Hassan
+2026-02-17,Sugar,Grocery,7,45,315,Member,Net Banking,Hassan
+2026-02-04,Biscuits,Snacks,6,20,120,Member,UPI,Bangalore
+2026-11-04,Shampoo,Personal Care,5,120,600,Normal,Net Banking,Mandya
+2026-11-25,Shampoo,Personal Care,7,120,840,Member,Cash,Mysore
+2026-12-15,Biscuits,Snacks,10,20,200,Normal,UPI,Hassan
+2026-08-12,Shampoo,Personal Care,4,120,480,Member,Cash,Mandya
+2026-01-14,Bread,Bakery,1,40,40,Normal,Net Banking,Bangalore
+2026-05-27,Soap,Personal Care,1,35,35,Normal,Card,Bangalore
+2026-08-16,Biscuits,Snacks,8,20,160,Member,Card,Mandya
+2026-08-18,Shampoo,Personal Care,8,120,960,Member,Card,Hassan
+2026-11-23,Coffee,Beverages,8,150,1200,Normal,Card,Mandya
+2026-09-04,Sugar,Grocery,5,45,225,Member,Net Banking,Tumkur
+2026-10-30,Milk,Dairy,2,30,60,Member,UPI,Bangalore
+2026-03-10,Juice,Beverages,10,80,800,Normal,Cash,Bangalore
+2026-05-04,Bread,Bakery,1,40,40,Normal,UPI,Mandya
+2026-05-30,Sugar,Grocery,1,45,45,Member,Card,Tumkur
+2026-02-04,Sugar,Grocery,4,45,180,Member,Cash,Mandya
+2026-06-17,Bread,Bakery,8,40,320,Member,UPI,Hassan
+2026-11-15,Rice,Grocery,9,60,540,Normal,UPI,Bangalore
+2026-03-18,Coffee,Beverages,2,150,300,Normal,Card,Mandya
+2026-06-16,Juice,Beverages,9,80,720,Normal,Net Banking,Bangalore
+2026-03-27,Shampoo,Personal Care,9,120,1080,Normal,Net Banking,Bangalore
+2026-03-09,Biscuits,Snacks,4,20,80,Normal,UPI,Mysore
+2026-07-23,Sugar,Grocery,10,45,450,Member,Net Banking,Hassan
+2026-04-22,Eggs,Dairy,3,7,21,Member,Net Banking,Tumkur
+2026-09-01,Soap,Personal Care,9,35,315,Normal,UPI,Mandya
+2026-12-07,Shampoo,Personal Care,5,120,600,Normal,Card,Mysore
+2026-01-18,Juice,Beverages,6,80,480,Normal,Card,Tumkur
+2026-08-24,Eggs,Dairy,7,7,49,Normal,Card,Mysore
+2026-02-04,Shampoo,Personal Care,7,120,840,Member,Card,Bangalore
+2026-08-31,Soap,Personal Care,8,35,280,Member,Card,Bangalore
+2026-02-23,Juice,Beverages,10,80,800,Normal,Card,Mandya
+2026-12-01,Coffee,Beverages,1,150,150,Member,UPI,Hassan
+2026-07-23,Milk,Dairy,7,30,210,Member,Cash,Bangalore
+2026-11-12,Milk,Dairy,10,30,300,Normal,Net Banking,Bangalore
+2026-10-16,Bread,Bakery,9,40,360,Normal,Card,Mysore
+2026-08-16,Milk,Dairy,5,30,150,Normal,UPI,Bangalore
+2026-06-24,Coffee,Beverages,10,150,1500,Normal,Net Banking,Bangalore
+2026-03-11,Eggs,Dairy,10,7,70,Member,Cash,Tumkur
+2026-12-22,Bread,Bakery,9,40,360,Member,Cash,Bangalore
+2026-05-03,Shampoo,Personal Care,2,120,240,Normal,Cash,Mysore
+2026-07-08,Rice,Grocery,2,60,120,Member,Net Banking,Tumkur
+2026-05-31,Milk,Dairy,5,30,150,Normal,Card,Mysore
+2026-09-05,Bread,Bakery,6,40,240,Member,UPI,Bangalore
+2026-06-19,Sugar,Grocery,1,45,45,Member,Card,Hassan
+2026-12-08,Rice,Grocery,6,60,360,Member,UPI,Tumkur
+2026-10-23,Juice,Beverages,2,80,160,Normal,Card,Hassan
+2026-09-17,Soap,Personal Care,1,35,35,Normal,UPI,Tumkur
+2026-05-12,Milk,Dairy,2,30,60,Member,Net Banking,Hassan
+2026-04-24,Milk,Dairy,4,30,120,Normal,Cash,Mandya
+2026-12-13,Rice,Grocery,1,60,60,Normal,Cash,Hassan
+2026-03-14,Sugar,Grocery,9,45,405,Normal,Cash,Mysore
+2026-03-24,Rice,Grocery,6,60,360,Normal,Card,Mysore
+2026-12-02,Soap,Personal Care,10,35,350,Member,Net Banking,Bangalore
+2026-03-06,Coffee,Beverages,10,150,1500,Member,Cash,Mysore
+2026-07-11,Rice,Grocery,1,60,60,Member,Net Banking,Hassan
+2026-03-10,Shampoo,Personal Care,6,120,720,Normal,UPI,Mysore
+2026-06-26,Sugar,Grocery,8,45,360,Member,Cash,Tumkur
+2026-03-17,Shampoo,Personal Care,5,120,600,Normal,Cash,Mysore
+2026-09-15,Milk,Dairy,6,30,180,Normal,Cash,Mysore
+2026-11-16,Milk,Dairy,9,30,270,Member,Net Banking,Tumkur
+2026-04-25,Bread,Bakery,10,40,400,Normal,Card,Hassan
+2026-09-09,Bread,Bakery,1,40,40,Normal,UPI,Hassan
+2026-02-18,Sugar,Grocery,9,45,405,Member,Net Banking,Tumkur
+2026-12-31,Rice,Grocery,2,60,120,Member,Card,Tumkur
+2026-06-14,Biscuits,Snacks,6,20,120,Member,Card,Tumkur
+2026-01-12,Soap,Personal Care,5,35,175,Member,Net Banking,Bangalore
+2026-01-22,Rice,Grocery,3,60,180,Normal,UPI,Mandya
+2026-07-14,Juice,Beverages,10,80,800,Normal,Card,Tumkur
+2026-05-30,Bread,Bakery,3,40,120,Normal,Net Banking,Bangalore
+2026-07-03,Shampoo,Personal Care,6,120,720,Normal,Net Banking,Mysore
+2026-07-30,Biscuits,Snacks,2,20,40,Member,Cash,Bangalore
+2026-11-13,Rice,Grocery,10,60,600,Normal,Card,Bangalore
+2026-07-10,Rice,Grocery,10,60,600,Member,Net Banking,Tumkur
+2026-07-19,Eggs,Dairy,2,7,14,Normal,Card,Tumkur
+2026-11-03,Eggs,Dairy,4,7,28,Member,Net Banking,Tumkur
+2026-04-06,Sugar,Grocery,10,45,450,Member,Card,Mandya
+2026-11-28,Coffee,Beverages,9,150,1350,Normal,Cash,Tumkur
+2026-03-20,Biscuits,Snacks,6,20,120,Normal,Net Banking,Tumkur
+2026-06-12,Eggs,Dairy,2,7,14,Member,UPI,Bangalore
+2026-12-30,Juice,Beverages,1,80,80,Member,Cash,Mysore
+2026-07-01,Shampoo,Personal Care,8,120,960,Member,Net Banking,Mysore
+2026-03-20,Rice,Grocery,1,60,60,Member,Card,Hassan
+2026-12-23,Soap,Personal Care,8,35,280,Normal,Cash,Mandya
+2026-05-08,Sugar,Grocery,8,45,360,Member,Card,Tumkur
+2026-09-26,Milk,Dairy,6,30,180,Member,Cash,Hassan
+2026-01-07,Biscuits,Snacks,9,20,180,Normal,UPI,Hassan
+2026-10-15,Soap,Personal Care,4,35,140,Normal,UPI,Hassan
+2026-01-21,Shampoo,Personal Care,6,120,720,Normal,Cash,Mysore
+2026-02-08,Coffee,Beverages,1,150,150,Normal,Card,Tumkur
+2026-04-21,Juice,Beverages,3,80,240,Member,UPI,Tumkur
+2026-10-31,Bread,Bakery,5,40,200,Normal,Cash,Hassan
+2026-11-05,Coffee,Beverages,5,150,750,Normal,UPI,Mandya
+2026-01-25,Sugar,Grocery,1,45,45,Member,Net Banking,Mandya
+2026-11-26,Sugar,Grocery,8,45,360,Normal,Net Banking,Bangalore
+2026-07-03,Sugar,Grocery,5,45,225,Member,Card,Hassan
+2026-05-03,Soap,Personal Care,7,35,245,Normal,Card,Hassan
+2026-01-22,Biscuits,Snacks,6,20,120,Member,Cash,Mysore
+2026-12-04,Sugar,Grocery,4,45,180,Normal,Card,Hassan
+2026-02-09,Rice,Grocery,6,60,360,Member,Cash,Mandya
+2026-04-28,Biscuits,Snacks,1,20,20,Member,Net Banking,Mandya
+2026-03-22,Sugar,Grocery,10,45,450,Member,UPI,Hassan
+2026-04-17,Soap,Personal Care,2,35,70,Normal,Cash,Tumkur
+2026-01-05,Bread,Bakery,6,40,240,Member,Net Banking,Bangalore
+2026-06-05,Milk,Dairy,3,30,90,Member,Net Banking,Tumkur
+2026-04-15,Bread,Bakery,10,40,400,Member,Card,Bangalore
+2026-03-17,Shampoo,Personal Care,7,120,840,Normal,Card,Hassan
+2026-05-22,Rice,Grocery,1,60,60,Normal,Net Banking,Mandya
+2026-07-11,Eggs,Dairy,1,7,7,Member,Card,Hassan
+2026-04-24,Shampoo,Personal Care,5,120,600,Member,Net Banking,Tumkur
+2026-06-26,Bread,Bakery,1,40,40,Normal,Cash,Bangalore
+2026-03-08,Bread,Bakery,5,40,200,Member,Card,Mysore
+2026-10-19,Bread,Bakery,6,40,240,Member,Cash,Mandya
+2026-10-12,Eggs,Dairy,4,7,28,Normal,Net Banking,Hassan
+2026-01-04,Eggs,Dairy,7,7,49,Member,Card,Mandya
+2026-10-20,Bread,Bakery,5,40,200,Member,UPI,Hassan
+2026-07-30,Shampoo,Personal Care,2,120,240,Member,Net Banking,Tumkur
+2026-11-24,Biscuits,Snacks,2,20,40,Normal,UPI,Mysore
+2026-01-15,Juice,Beverages,9,80,720,Normal,Net Banking,Tumkur
+2026-06-05,Sugar,Grocery,6,45,270,Normal,Card,Bangalore
+2026-11-28,Rice,Grocery,1,60,60,Member,Net Banking,Hassan
+2026-03-07,Milk,Dairy,6,30,180,Member,Card,Mysore
+2026-09-13,Juice,Beverages,5,80,400,Member,Card,Mandya
+2026-04-04,Bread,Bakery,9,40,360,Member,Net Banking,Mandya
+2026-02-09,Shampoo,Personal Care,7,120,840,Member,UPI,Tumkur
+2026-03-18,Milk,Dairy,1,30,30,Member,Card,Mandya
+2026-04-25,Eggs,Dairy,4,7,28,Normal,UPI,Hassan
+2026-10-25,Coffee,Beverages,7,150,1050,Member,Card,Hassan
+2026-06-05,Rice,Grocery,1,60,60,Normal,UPI,Tumkur
+2026-09-04,Milk,Dairy,9,30,270,Normal,Net Banking,Tumkur
+2026-09-14,Eggs,Dairy,8,7,56,Member,Card,Hassan
+2026-01-06,Bread,Bakery,9,40,360,Member,Net Banking,Bangalore
+2026-11-28,Soap,Personal Care,9,35,315,Normal,UPI,Mysore
+2026-01-27,Eggs,Dairy,10,7,70,Normal,Card,Tumkur
+2026-07-11,Rice,Grocery,5,60,300,Member,UPI,Mandya
+2026-01-30,Eggs,Dairy,6,7,42,Normal,Cash,Mandya
+2026-01-12,Milk,Dairy,10,30,300,Normal,Net Banking,Hassan
+2026-01-11,Biscuits,Snacks,2,20,40,Member,Card,Bangalore
+2026-11-07,Coffee,Beverages,10,150,1500,Normal,UPI,Tumkur
+2026-03-03,Soap,Personal Care,8,35,280,Normal,Card,Hassan
+2026-12-21,Bread,Bakery,5,40,200,Normal,Card,Tumkur
+2026-01-02,Coffee,Beverages,10,150,1500,Member,UPI,Mysore
+2026-03-18,Soap,Personal Care,1,35,35,Normal,Card,Mandya
+2026-04-06,Milk,Dairy,9,30,270,Member,Cash,Tumkur
+2026-02-27,Bread,Bakery,3,40,120,Member,UPI,Bangalore
+2026-02-05,Milk,Dairy,7,30,210,Member,Cash,Hassan
+2026-08-22,Juice,Beverages,10,80,800,Member,Cash,Hassan
+2026-07-09,Sugar,Grocery,5,45,225,Normal,Net Banking,Bangalore
+2026-03-14,Sugar,Grocery,5,45,225,Normal,Cash,Tumkur
+2026-12-30,Soap,Personal Care,4,35,140,Normal,UPI,Mysore
+2026-01-06,Bread,Bakery,1,40,40,Member,Card,Bangalore
+2026-06-14,Shampoo,Personal Care,5,120,600,Normal,Cash,Bangalore
+2026-03-13,Eggs,Dairy,9,7,63,Member,Cash,Mandya
+2026-07-10,Juice,Beverages,4,80,320,Normal,Net Banking,Hassan
+2026-03-16,Bread,Bakery,8,40,320,Normal,Net Banking,Hassan
+2026-07-05,Shampoo,Personal Care,7,120,840,Member,UPI,Mysore
+2026-05-31,Eggs,Dairy,7,7,49,Normal,UPI,Tumkur
+2026-05-07,Eggs,Dairy,3,7,21,Member,Cash,Hassan
+2026-03-07,Biscuits,Snacks,5,20,100,Member,Card,Tumkur
+2026-11-02,Biscuits,Snacks,2,20,40,Member,Card,Mysore
+2026-03-10,Coffee,Beverages,7,150,1050,Member,Net Banking,Tumkur
+2026-09-11,Soap,Personal Care,10,35,350,Member,UPI,Tumkur
+2026-01-24,Biscuits,Snacks,5,20,100,Normal,Card,Bangalore
+2026-07-12,Biscuits,Snacks,10,20,200,Normal,Cash,Hassan
+2026-02-07,Biscuits,Snacks,7,20,140,Member,Card,Mandya
+2026-03-26,Sugar,Grocery,8,45,360,Member,Card,Tumkur
+2026-05-22,Milk,Dairy,9,30,270,Normal,Net Banking,Mysore
+2026-02-18,Biscuits,Snacks,10,20,200,Normal,Net Banking,Tumkur
+2026-06-20,Rice,Grocery,9,60,540,Member,Card,Tumkur
+2026-11-06,Biscuits,Snacks,9,20,180,Normal,Cash,Hassan
+2026-12-08,Milk,Dairy,1,30,30,Member,UPI,Mandya
+2026-11-04,Biscuits,Snacks,1,20,20,Normal,Cash,Bangalore
+2026-08-10,Rice,Grocery,1,60,60,Member,UPI,Mysore
+2026-10-11,Soap,Personal Care,7,35,245,Normal,Net Banking,Bangalore
+2026-02-24,Sugar,Grocery,1,45,45,Normal,UPI,Tumkur
+2026-05-03,Biscuits,Snacks,3,20,60,Member,Card,Mysore
+2026-04-10,Biscuits,Snacks,2,20,40,Member,Net Banking,Tumkur
+2026-06-04,Eggs,Dairy,9,7,63,Normal,Cash,Bangalore
+2026-08-13,Eggs,Dairy,7,7,49,Member,Net Banking,Mandya
+2026-08-28,Biscuits,Snacks,10,20,200,Normal,Cash,Hassan
+2026-06-10,Rice,Grocery,1,60,60,Normal,UPI,Tumkur
+2026-05-24,Coffee,Beverages,1,150,150,Member,UPI,Mandya
+2026-03-24,Soap,Personal Care,10,35,350,Member,Cash,Hassan
+2026-04-30,Bread,Bakery,2,40,80,Member,Card,Mandya
+2026-08-29,Coffee,Beverages,1,150,150,Normal,UPI,Hassan
+2026-08-16,Bread,Bakery,5,40,200,Normal,Cash,Mysore
+2026-06-11,Bread,Bakery,7,40,280,Member,Net Banking,Tumkur
+2026-05-06,Sugar,Grocery,10,45,450,Member,UPI,Hassan
+2026-05-20,Bread,Bakery,5,40,200,Member,Net Banking,Tumkur
+2026-08-28,Coffee,Beverages,9,150,1350,Member,Net Banking,Hassan
+2026-08-25,Coffee,Beverages,2,150,300,Normal,UPI,Mandya
+2026-09-15,Rice,Grocery,1,60,60,Normal,Net Banking,Mandya
+2026-11-22,Shampoo,Personal Care,5,120,600,Normal,Card,Tumkur
+2026-06-30,Milk,Dairy,10,30,300,Member,UPI,Bangalore
+2026-11-11,Biscuits,Snacks,5,20,100,Member,UPI,Mysore
+2026-06-23,Soap,Personal Care,3,35,105,Member,Cash,Bangalore
+2026-11-22,Rice,Grocery,4,60,240,Member,Card,Bangalore
+2026-11-01,Biscuits,Snacks,10,20,200,Normal,Cash,Bangalore
+2026-04-02,Milk,Dairy,9,30,270,Member,UPI,Tumkur
+2026-11-01,Eggs,Dairy,4,7,28,Normal,Net Banking,Mysore
+2026-01-19,Shampoo,Personal Care,1,120,120,Member,UPI,Hassan
+2026-05-18,Sugar,Grocery,9,45,405,Member,Card,Mandya
+2026-01-16,Biscuits,Snacks,5,20,100,Normal,Net Banking,Bangalore
+2026-07-20,Eggs,Dairy,9,7,63,Member,Cash,Mandya
+2026-04-07,Coffee,Beverages,6,150,900,Normal,Cash,Mandya
+2026-06-27,Shampoo,Personal Care,9,120,1080,Normal,UPI,Bangalore
+2026-12-13,Biscuits,Snacks,5,20,100,Normal,UPI,Hassan
+2026-04-08,Sugar,Grocery,4,45,180,Normal,Cash,Tumkur
+2026-10-21,Shampoo,Personal Care,1,120,120,Normal,UPI,Hassan
+2026-05-07,Milk,Dairy,4,30,120,Member,Net Banking,Bangalore
+2026-03-15,Bread,Bakery,9,40,360,Member,UPI,Mysore
+2026-01-12,Eggs,Dairy,10,7,70,Normal,UPI,Hassan
+2026-08-23,Rice,Grocery,3,60,180,Member,Net Banking,Mandya
+2026-07-14,Bread,Bakery,9,40,360,Normal,Card,Mandya
+2026-10-09,Coffee,Beverages,7,150,1050,Normal,Cash,Hassan
+2026-11-21,Shampoo,Personal Care,5,120,600,Normal,Card,Hassan
+2026-10-23,Juice,Beverages,8,80,640,Member,Cash,Mysore
+2026-11-10,Biscuits,Snacks,3,20,60,Member,UPI,Tumkur
+2026-11-11,Sugar,Grocery,4,45,180,Member,Net Banking,Tumkur
+2026-07-06,Biscuits,Snacks,6,20,120,Normal,Card,Mysore
+2026-09-08,Biscuits,Snacks,6,20,120,Normal,UPI,Tumkur
+2026-02-22,Sugar,Grocery,3,45,135,Member,UPI,Hassan
+2026-05-14,Sugar,Grocery,9,45,405,Member,Cash,Mysore
+2026-11-05,Soap,Personal Care,5,35,175,Member,Cash,Mandya
+2026-03-10,Biscuits,Snacks,10,20,200,Member,Card,Bangalore
+2026-12-23,Rice,Grocery,7,60,420,Member,UPI,Hassan
+2026-04-05,Juice,Beverages,4,80,320,Member,Cash,Tumkur
+2026-05-26,Eggs,Dairy,7,7,49,Normal,Card,Hassan
+2026-11-19,Eggs,Dairy,2,7,14,Normal,Net Banking,Tumkur
+2026-10-26,Bread,Bakery,5,40,200,Normal,UPI,Hassan
+2026-05-14,Coffee,Beverages,3,150,450,Normal,Cash,Tumkur
+2026-05-27,Bread,Bakery,1,40,40,Normal,Card,Mysore
+2026-09-28,Biscuits,Snacks,10,20,200,Normal,Cash,Mandya
+2026-04-14,Soap,Personal Care,3,35,105,Normal,Card,Bangalore
+2026-04-11,Bread,Bakery,9,40,360,Normal,Cash,Hassan
+2026-06-29,Sugar,Grocery,7,45,315,Member,Card,Bangalore
+2026-09-12,Shampoo,Personal Care,10,120,1200,Normal,Card,Hassan
+2026-02-28,Milk,Dairy,8,30,240,Member,Cash,Tumkur
+2026-04-14,Juice,Beverages,7,80,560,Member,UPI,Hassan
+2026-06-10,Soap,Personal Care,2,35,70,Normal,Net Banking,Mandya
+2026-08-06,Sugar,Grocery,10,45,450,Member,Cash,Mandya
+2026-01-25,Eggs,Dairy,1,7,7,Member,Net Banking,Hassan
+2026-12-04,Sugar,Grocery,8,45,360,Member,Card,Tumkur
+2026-11-21,Shampoo,Personal Care,5,120,600,Normal,Cash,Mysore
+2026-10-09,Milk,Dairy,2,30,60,Normal,Cash,Tumkur
+2026-05-05,Juice,Beverages,10,80,800,Member,Net Banking,Mysore
+2026-08-19,Bread,Bakery,7,40,280,Normal,UPI,Hassan
+2026-05-31,Coffee,Beverages,10,150,1500,Member,Card,Mandya
+2026-03-07,Rice,Grocery,8,60,480,Member,Cash,Mandya
+2026-11-30,Shampoo,Personal Care,8,120,960,Member,UPI,Bangalore
+2026-06-08,Eggs,Dairy,10,7,70,Normal,Card,Mysore
+2026-12-25,Soap,Personal Care,3,35,105,Normal,Net Banking,Tumkur
+2026-06-30,Shampoo,Personal Care,1,120,120,Normal,UPI,Mysore
+2026-02-14,Biscuits,Snacks,3,20,60,Normal,Card,Bangalore
+2026-07-05,Rice,Grocery,5,60,300,Member,Net Banking,Tumkur
+2026-06-16,Shampoo,Personal Care,7,120,840,Member,Net Banking,Hassan
+2026-03-26,Shampoo,Personal Care,10,120,1200,Normal,Card,Bangalore
+2026-11-12,Sugar,Grocery,4,45,180,Normal,Cash,Tumkur
+2026-07-16,Shampoo,Personal Care,3,120,360,Member,UPI,Hassan
+2026-03-05,Sugar,Grocery,2,45,90,Member,Net Banking,Bangalore
+2026-06-08,Shampoo,Personal Care,7,120,840,Member,Card,Mysore
+2026-10-24,Milk,Dairy,3,30,90,Normal,Net Banking,Tumkur
+2026-09-15,Soap,Personal Care,9,35,315,Normal,Card,Tumkur
+2026-08-01,Milk,Dairy,8,30,240,Member,Card,Mandya
+2026-11-03,Milk,Dairy,9,30,270,Normal,Card,Mysore
+2026-01-24,Juice,Beverages,6,80,480,Normal,UPI,Hassan
+2026-04-20,Shampoo,Personal Care,2,120,240,Normal,Card,Hassan
+2026-07-31,Soap,Personal Care,6,35,210,Normal,UPI,Hassan
+2026-09-08,Sugar,Grocery,4,45,180,Normal,Card,Mysore
+2026-09-13,Eggs,Dairy,8,7,56,Normal,UPI,Mandya
+2026-04-03,Eggs,Dairy,7,7,49,Member,Net Banking,Tumkur
+2026-04-10,Sugar,Grocery,1,45,45,Member,Net Banking,Hassan
+2026-04-08,Shampoo,Personal Care,4,120,480,Member,Net Banking,Tumkur
+2026-12-31,Bread,Bakery,1,40,40,Normal,Net Banking,Tumkur
+2026-06-29,Soap,Personal Care,4,35,140,Member,Card,Hassan
+2026-01-25,Shampoo,Personal Care,3,120,360,Normal,Cash,Hassan
+2026-01-23,Milk,Dairy,6,30,180,Member,Cash,Tumkur
+2026-06-29,Milk,Dairy,3,30,90,Normal,Card,Hassan
+2026-09-02,Juice,Beverages,5,80,400,Member,Cash,Mandya
+2026-06-16,Biscuits,Snacks,6,20,120,Normal,UPI,Hassan
+2026-12-21,Shampoo,Personal Care,8,120,960,Normal,Card,Bangalore
+2026-12-31,Bread,Bakery,4,40,160,Normal,Cash,Hassan
+2026-10-17,Bread,Bakery,2,40,80,Member,UPI,Hassan
+2026-05-09,Milk,Dairy,7,30,210,Member,UPI,Tumkur
+2026-10-17,Bread,Bakery,7,40,280,Normal,Card,Tumkur
+2026-03-19,Rice,Grocery,6,60,360,Normal,Card,Mandya
+2026-05-15,Juice,Beverages,3,80,240,Member,Cash,Bangalore
+2026-06-23,Coffee,Beverages,1,150,150,Normal,Cash,Tumkur
+2026-01-10,Bread,Bakery,3,40,120,Member,UPI,Mandya
+2026-03-12,Soap,Personal Care,7,35,245,Normal,Card,Mandya
+2026-04-22,Sugar,Grocery,1,45,45,Normal,Cash,Hassan
+2026-06-12,Eggs,Dairy,7,7,49,Normal,Net Banking,Tumkur
+2026-10-15,Soap,Personal Care,1,35,35,Normal,Cash,Bangalore
+2026-05-20,Coffee,Beverages,5,150,750,Normal,Cash,Mandya
+2026-06-25,Soap,Personal Care,10,35,350,Member,Cash,Bangalore
+2026-08-24,Shampoo,Personal Care,10,120,1200,Normal,Card,Tumkur
+2026-08-20,Sugar,Grocery,3,45,135,Member,Net Banking,Tumkur
+2026-04-25,Soap,Personal Care,9,35,315,Member,UPI,Mandya
+2026-03-23,Juice,Beverages,6,80,480,Normal,Net Banking,Mandya
+2026-07-01,Rice,Grocery,2,60,120,Member,UPI,Tumkur
+2026-02-19,Juice,Beverages,5,80,400,Normal,Card,Bangalore
+2026-06-02,Sugar,Grocery,6,45,270,Normal,Card,Mysore
+2026-07-01,Milk,Dairy,10,30,300,Normal,Card,Mysore
+2026-01-03,Rice,Grocery,8,60,480,Normal,Net Banking,Mandya
+2026-12-15,Sugar,Grocery,3,45,135,Member,Cash,Hassan
+2026-12-31,Milk,Dairy,6,30,180,Normal,Card,Tumkur
+2026-01-08,Milk,Dairy,3,30,90,Member,UPI,Hassan
+2026-08-10,Bread,Bakery,9,40,360,Member,UPI,Mandya
+2026-03-13,Juice,Beverages,7,80,560,Normal,Net Banking,Bangalore
+2026-08-19,Biscuits,Snacks,2,20,40,Normal,Cash,Hassan
+2026-03-31,Juice,Beverages,9,80,720,Member,Cash,Mysore
+2026-10-24,Rice,Grocery,7,60,420,Normal,Card,Hassan
+2026-09-12,Bread,Bakery,4,40,160,Member,Cash,Bangalore
+2026-09-29,Biscuits,Snacks,7,20,140,Member,Card,Tumkur
+2026-02-03,Milk,Dairy,4,30,120,Member,UPI,Tumkur
+2026-09-02,Soap,Personal Care,3,35,105,Member,UPI,Mandya
+2026-10-12,Juice,Beverages,3,80,240,Member,Net Banking,Tumkur
+2026-03-18,Coffee,Beverages,4,150,600,Normal,Net Banking,Tumkur
+2026-01-13,Soap,Personal Care,3,35,105,Normal,Card,Hassan
+2026-09-20,Shampoo,Personal Care,2,120,240,Member,Card,Tumkur
+2026-06-25,Soap,Personal Care,8,35,280,Member,Card,Tumkur
+2026-10-09,Milk,Dairy,9,30,270,Member,Card,Tumkur
+2026-02-22,Shampoo,Personal Care,1,120,120,Member,Net Banking,Hassan
+2026-02-20,Biscuits,Snacks,8,20,160,Member,Cash,Mysore
+2026-03-12,Biscuits,Snacks,10,20,200,Normal,Net Banking,Mandya
+2026-07-06,Shampoo,Personal Care,9,120,1080,Member,Card,Tumkur
+2026-06-13,Biscuits,Snacks,4,20,80,Normal,Card,Hassan
+2026-07-30,Bread,Bakery,8,40,320,Normal,Cash,Mysore
+2026-07-19,Biscuits,Snacks,10,20,200,Member,UPI,Mysore
+2026-12-24,Coffee,Beverages,9,150,1350,Normal,UPI,Bangalore
+2026-05-13,Sugar,Grocery,9,45,405,Member,Cash,Bangalore
+2026-04-05,Eggs,Dairy,6,7,42,Member,Card,Mandya
+2026-10-18,Juice,Beverages,9,80,720,Normal,Cash,Hassan
+2026-08-01,Shampoo,Personal Care,4,120,480,Member,Cash,Mandya
+2026-08-25,Soap,Personal Care,9,35,315,Normal,Cash,Bangalore
+2026-05-22,Bread,Bakery,3,40,120,Normal,Net Banking,Mysore
+2026-06-14,Biscuits,Snacks,8,20,160,Member,Cash,Mysore
+2026-05-11,Soap,Personal Care,2,35,70,Member,UPI,Hassan
+2026-04-12,Shampoo,Personal Care,7,120,840,Normal,Card,Hassan
+2026-05-02,Sugar,Grocery,9,45,405,Member,Card,Tumkur
+2026-01-07,Sugar,Grocery,6,45,270,Normal,UPI,Mysore
+2026-01-02,Eggs,Dairy,9,7,63,Member,Net Banking,Hassan
+2026-07-01,Coffee,Beverages,2,150,300,Member,Card,Hassan
+2026-12-07,Milk,Dairy,7,30,210,Member,Net Banking,Hassan
+2026-09-18,Rice,Grocery,7,60,420,Normal,Cash,Mandya
+2026-09-08,Eggs,Dairy,5,7,35,Member,Net Banking,Bangalore
+2026-01-05,Rice,Grocery,9,60,540,Member,Card,Hassan
+2026-12-20,Sugar,Grocery,5,45,225,Member,UPI,Tumkur
+2026-10-06,Shampoo,Personal Care,2,120,240,Member,Card,Hassan
+2026-01-01,Shampoo,Personal Care,7,120,840,Member,UPI,Bangalore
+2026-04-06,Coffee,Beverages,4,150,600,Member,Cash,Mandya
+2026-03-12,Eggs,Dairy,5,7,35,Normal,UPI,Tumkur
+2026-01-06,Coffee,Beverages,6,150,900,Normal,UPI,Hassan
+2026-09-17,Eggs,Dairy,7,7,49,Normal,UPI,Hassan
+2026-04-22,Sugar,Grocery,6,45,270,Member,Card,Mandya
+2026-07-02,Shampoo,Personal Care,6,120,720,Normal,Cash,Bangalore
+2026-05-22,Juice,Beverages,8,80,640,Member,Cash,Bangalore
+2026-08-01,Rice,Grocery,8,60,480,Member,UPI,Mandya
+2026-03-12,Rice,Grocery,2,60,120,Normal,UPI,Mysore
+2026-07-29,Soap,Personal Care,10,35,350,Normal,Cash,Mysore
+2026-05-20,Coffee,Beverages,2,150,300,Normal,Cash,Mysore
+2026-06-26,Biscuits,Snacks,4,20,80,Normal,Card,Mandya
+2026-05-31,Juice,Beverages,2,80,160,Normal,Net Banking,Tumkur
+2026-09-25,Eggs,Dairy,2,7,14,Normal,Card,Mysore
+2026-08-12,Soap,Personal Care,4,35,140,Member,Card,Mysore
+2026-10-12,Sugar,Grocery,10,45,450,Normal,Card,Mysore
+2026-02-16,Soap,Personal Care,5,35,175,Normal,Net Banking,Bangalore
+2026-06-29,Juice,Beverages,1,80,80,Member,Cash,Bangalore
+2026-02-13,Coffee,Beverages,1,150,150,Normal,Net Banking,Mandya
+2026-06-11,Sugar,Grocery,1,45,45,Member,Cash,Mandya
+2026-11-20,Milk,Dairy,6,30,180,Member,Net Banking,Mysore
+2026-05-20,Shampoo,Personal Care,3,120,360,Normal,Net Banking,Mysore
+2026-04-15,Bread,Bakery,8,40,320,Normal,Card,Tumkur
+2026-12-29,Rice,Grocery,4,60,240,Normal,Net Banking,Mandya
+2026-01-03,Biscuits,Snacks,9,20,180,Normal,Card,Bangalore
+2026-06-01,Rice,Grocery,9,60,540,Member,Net Banking,Mysore
+2026-04-26,Coffee,Beverages,9,150,1350,Normal,UPI,Mysore
+2026-11-07,Milk,Dairy,7,30,210,Member,Card,Tumkur
+2026-07-07,Coffee,Beverages,1,150,150,Member,Net Banking,Tumkur
+2026-12-23,Shampoo,Personal Care,8,120,960,Normal,Net Banking,Mandya
+2026-02-13,Soap,Personal Care,2,35,70,Normal,UPI,Bangalore
+2026-12-27,Sugar,Grocery,9,45,405,Normal,UPI,Tumkur
+2026-02-10,Biscuits,Snacks,10,20,200,Normal,UPI,Tumkur
+2026-05-25,Shampoo,Personal Care,5,120,600,Member,Card,Mandya
+2026-06-29,Shampoo,Personal Care,7,120,840,Normal,Card,Mysore
+2026-03-07,Shampoo,Personal Care,10,120,1200,Normal,Card,Tumkur
+2026-03-26,Rice,Grocery,2,60,120,Member,Card,Tumkur
+2026-05-01,Milk,Dairy,2,30,60,Member,Cash,Mandya
+2026-05-12,Biscuits,Snacks,4,20,80,Member,Card,Hassan
+2026-03-06,Bread,Bakery,7,40,280,Normal,Card,Bangalore
+2026-02-26,Juice,Beverages,10,80,800,Normal,Card,Hassan
+2026-04-16,Soap,Personal Care,2,35,70,Member,Card,Mandya
+2026-09-26,Biscuits,Snacks,9,20,180,Normal,UPI,Tumkur
+2026-03-07,Shampoo,Personal Care,4,120,480,Normal,Cash,Tumkur
+2026-11-15,Biscuits,Snacks,5,20,100,Normal,Cash,Bangalore
+2026-01-18,Bread,Bakery,9,40,360,Normal,Card,Bangalore
+2026-12-31,Sugar,Grocery,7,45,315,Normal,Net Banking,Mandya
+2026-07-29,Soap,Personal Care,6,35,210,Normal,UPI,Mandya
+2026-09-29,Soap,Personal Care,9,35,315,Member,Card,Mysore
+2026-05-21,Coffee,Beverages,1,150,150,Member,Net Banking,Bangalore
+2026-09-16,Coffee,Beverages,5,150,750,Member,UPI,Hassan
+2026-08-06,Bread,Bakery,10,40,400,Member,UPI,Hassan
+2026-07-01,Rice,Grocery,9,60,540,Member,UPI,Hassan
+2026-01-01,Coffee,Beverages,7,150,1050,Member,Cash,Bangalore
+2026-10-04,Eggs,Dairy,10,7,70,Member,Cash,Hassan
+2026-12-21,Shampoo,Personal Care,9,120,1080,Member,Net Banking,Mandya
+2026-09-18,Bread,Bakery,3,40,120,Member,UPI,Tumkur
+2026-08-23,Biscuits,Snacks,5,20,100,Member,UPI,Hassan
+2026-03-05,Bread,Bakery,3,40,120,Member,UPI,Mysore
+2026-03-03,Bread,Bakery,5,40,200,Normal,Card,Mysore
+2026-10-13,Bread,Bakery,9,40,360,Member,Card,Hassan
+2026-10-29,Juice,Beverages,4,80,320,Normal,UPI,Mandya
+2026-11-14,Juice,Beverages,4,80,320,Member,Card,Bangalore
+2026-05-22,Juice,Beverages,5,80,400,Member,Net Banking,Mysore
+2026-04-29,Milk,Dairy,2,30,60,Normal,Cash,Hassan
+2026-04-01,Sugar,Grocery,9,45,405,Member,Card,Bangalore
+2026-10-30,Rice,Grocery,9,60,540,Member,UPI,Mysore
+2026-02-15,Bread,Bakery,2,40,80,Normal,UPI,Mandya
+2026-04-11,Shampoo,Personal Care,5,120,600,Normal,Net Banking,Hassan
+2026-07-29,Coffee,Beverages,10,150,1500,Member,Cash,Mandya
+2026-07-28,Bread,Bakery,4,40,160,Normal,Card,Mysore
+2026-08-25,Juice,Beverages,6,80,480,Member,UPI,Tumkur
+2026-10-16,Milk,Dairy,7,30,210,Normal,UPI,Mysore
+2026-02-12,Rice,Grocery,7,60,420,Normal,Net Banking,Bangalore
+2026-12-19,Biscuits,Snacks,10,20,200,Member,Net Banking,Bangalore
+2026-12-07,Biscuits,Snacks,3,20,60,Normal,Cash,Bangalore
+2026-04-03,Eggs,Dairy,7,7,49,Normal,Card,Tumkur
+2026-04-15,Soap,Personal Care,6,35,210,Normal,Net Banking,Mysore
+2026-04-12,Shampoo,Personal Care,3,120,360,Normal,Cash,Bangalore
+2026-06-14,Sugar,Grocery,10,45,450,Normal,Net Banking,Tumkur
+2026-10-26,Shampoo,Personal Care,10,120,1200,Normal,Cash,Mysore
+2026-02-23,Coffee,Beverages,4,150,600,Member,Net Banking,Bangalore
+2026-12-05,Shampoo,Personal Care,1,120,120,Normal,Card,Tumkur
+2026-05-27,Milk,Dairy,1,30,30,Normal,Cash,Bangalore
+2026-09-05,Biscuits,Snacks,10,20,200,Member,UPI,Hassan
+2026-11-19,Juice,Beverages,2,80,160,Member,UPI,Tumkur
+2026-04-05,Biscuits,Snacks,7,20,140,Member,UPI,Bangalore
+2026-07-24,Bread,Bakery,10,40,400,Member,Card,Mysore
+2026-01-29,Biscuits,Snacks,3,20,60,Member,UPI,Hassan
+2026-06-27,Juice,Beverages,1,80,80,Normal,Card,Tumkur
+2026-07-09,Sugar,Grocery,6,45,270,Member,Net Banking,Mysore
+2026-01-10,Biscuits,Snacks,7,20,140,Member,Cash,Bangalore
+2026-05-02,Eggs,Dairy,5,7,35,Normal,Net Banking,Hassan
+2026-10-12,Biscuits,Snacks,9,20,180,Normal,Card,Hassan
+2026-04-11,Milk,Dairy,3,30,90,Member,Cash,Tumkur
+2026-04-09,Bread,Bakery,10,40,400,Normal,Net Banking,Bangalore
+2026-07-21,Biscuits,Snacks,5,20,100,Normal,Net Banking,Tumkur
+2026-04-20,Shampoo,Personal Care,9,120,1080,Member,UPI,Tumkur
+2026-12-11,Milk,Dairy,5,30,150,Member,Net Banking,Hassan
+2026-10-05,Soap,Personal Care,8,35,280,Normal,UPI,Mandya
+2026-07-29,Sugar,Grocery,5,45,225,Member,UPI,Mysore
+2026-12-24,Shampoo,Personal Care,10,120,1200,Normal,UPI,Hassan
+2026-11-25,Soap,Personal Care,1,35,35,Member,Card,Tumkur
+2026-01-13,Soap,Personal Care,1,35,35,Normal,UPI,Bangalore
+2026-11-10,Rice,Grocery,10,60,600,Normal,Cash,Bangalore
+2026-03-05,Bread,Bakery,7,40,280,Member,Card,Mandya
+2026-08-25,Milk,Dairy,2,30,60,Normal,Card,Tumkur
+2026-12-31,Sugar,Grocery,1,45,45,Member,UPI,Bangalore
+2026-06-28,Milk,Dairy,10,30,300,Member,Cash,Mandya
+2026-10-04,Milk,Dairy,4,30,120,Member,Net Banking,Hassan
+2026-09-25,Sugar,Grocery,2,45,90,Normal,Cash,Mandya
+2026-01-09,Soap,Personal Care,9,35,315,Member,Cash,Hassan
+2026-03-10,Coffee,Beverages,10,150,1500,Member,Net Banking,Bangalore
+2026-05-16,Sugar,Grocery,9,45,405,Member,Net Banking,Hassan
+2026-06-08,Biscuits,Snacks,6,20,120,Normal,Net Banking,Tumkur
+2026-04-11,Rice,Grocery,1,60,60,Normal,UPI,Mandya
+2026-05-27,Sugar,Grocery,2,45,90,Member,Card,Bangalore
+2026-07-20,Sugar,Grocery,10,45,450,Member,Net Banking,Mandya
+2026-10-19,Biscuits,Snacks,1,20,20,Normal,UPI,Tumkur
+2026-05-08,Bread,Bakery,1,40,40,Normal,Cash,Mandya
+2026-10-18,Milk,Dairy,6,30,180,Member,Net Banking,Mandya
+2026-02-26,Juice,Beverages,2,80,160,Normal,Card,Tumkur
+2026-05-10,Bread,Bakery,10,40,400,Member,Net Banking,Bangalore
+2026-04-09,Milk,Dairy,4,30,120,Member,Net Banking,Mysore
+2026-07-24,Eggs,Dairy,10,7,70,Normal,Card,Hassan
+2026-09-09,Sugar,Grocery,1,45,45,Normal,UPI,Hassan
+2026-05-30,Rice,Grocery,7,60,420,Member,UPI,Mysore
+2026-11-03,Sugar,Grocery,5,45,225,Normal,Cash,Bangalore
+2026-03-24,Eggs,Dairy,7,7,49,Member,Cash,Hassan
+2026-02-10,Sugar,Grocery,9,45,405,Member,Card,Mandya
+2026-10-02,Juice,Beverages,8,80,640,Normal,UPI,Tumkur
+2026-12-07,Juice,Beverages,3,80,240,Member,UPI,Mysore
+2026-08-25,Rice,Grocery,9,60,540,Member,Net Banking,Hassan
+2026-11-15,Soap,Personal Care,2,35,70,Member,Card,Hassan
+2026-06-11,Juice,Beverages,6,80,480,Member,Net Banking,Mandya
+2026-11-25,Shampoo,Personal Care,3,120,360,Normal,Card,Mysore
+2026-10-11,Milk,Dairy,10,30,300,Member,Cash,Mysore
+2026-02-05,Milk,Dairy,6,30,180,Normal,Net Banking,Mandya
+2026-03-26,Soap,Personal Care,3,35,105,Normal,Net Banking,Hassan
+2026-04-02,Soap,Personal Care,3,35,105,Normal,Cash,Hassan
+2026-05-29,Milk,Dairy,6,30,180,Member,Cash,Mysore
+2026-07-31,Milk,Dairy,5,30,150,Member,UPI,Hassan
+2026-07-30,Milk,Dairy,3,30,90,Member,Card,Mysore
+2026-04-22,Sugar,Grocery,2,45,90,Normal,Card,Mandya
+2026-04-09,Coffee,Beverages,9,150,1350,Normal,Cash,Tumkur
+2026-02-09,Bread,Bakery,7,40,280,Normal,Net Banking,Mysore
+2026-07-31,Soap,Personal Care,7,35,245,Normal,Cash,Hassan
+2026-01-19,Eggs,Dairy,3,7,21,Normal,UPI,Mysore
+2026-11-21,Coffee,Beverages,7,150,1050,Member,Cash,Tumkur
+2026-09-29,Shampoo,Personal Care,7,120,840,Member,Card,Mandya
+2026-12-10,Rice,Grocery,9,60,540,Normal,Cash,Mandya
+2026-06-10,Biscuits,Snacks,8,20,160,Member,UPI,Bangalore
+2026-01-15,Juice,Beverages,9,80,720,Normal,UPI,Hassan
+2026-12-30,Sugar,Grocery,7,45,315,Member,Cash,Mandya
+2026-05-18,Soap,Personal Care,7,35,245,Member,Net Banking,Hassan
+2026-07-18,Biscuits,Snacks,7,20,140,Member,Net Banking,Mysore
+2026-08-15,Eggs,Dairy,1,7,7,Normal,Net Banking,Mandya
+2026-02-15,Juice,Beverages,5,80,400,Normal,Net Banking,Hassan
+2026-06-24,Rice,Grocery,8,60,480,Normal,Card,Hassan
+2026-11-17,Coffee,Beverages,9,150,1350,Normal,UPI,Tumkur
+2026-09-30,Soap,Personal Care,7,35,245,Normal,Cash,Bangalore
+2026-03-09,Bread,Bakery,7,40,280,Normal,UPI,Bangalore
+2026-03-24,Biscuits,Snacks,9,20,180,Normal,Cash,Mysore
+2026-09-18,Bread,Bakery,2,40,80,Member,UPI,Mysore
+2026-07-25,Biscuits,Snacks,7,20,140,Normal,UPI,Tumkur
+2026-01-28,Biscuits,Snacks,4,20,80,Normal,UPI,Mysore
+2026-05-13,Milk,Dairy,5,30,150,Normal,UPI,Mysore
+2026-02-17,Bread,Bakery,5,40,200,Normal,Net Banking,Hassan
